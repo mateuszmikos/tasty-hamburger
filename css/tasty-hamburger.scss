@@ -76,153 +76,171 @@
 
 
 // 2 / X
-.tasty-hamburger-1 { @include standardSettings(2); }
+.tasty-hamburger-1 {
+    @include standardSettings(2);
 
-.tasty-hamburger-1.tasty-toggled, .tasty-hamburger-1-dark.tasty-toggled {
-    span:nth-of-type(1) {
-        transform: rotate(45deg);
-        top: 25px;
-    }
-    span:nth-of-type(2) {
-        transform: rotate(320deg);
-        top: 25px;
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(45deg);
+            top: 25px;
+        }
+        span:nth-of-type(2) {
+            transform: rotate(320deg);
+            top: 25px;
+        }
     }
 }
 
 // 3 / X
-.tasty-hamburger-2 { @include standardSettings(3); }
+.tasty-hamburger-2 {
+    @include standardSettings(3);
 
-.tasty-hamburger-2.tasty-toggled, .tasty-hamburger-2-dark.tasty-toggled {
-    span:nth-of-type(1) {
-        transform: rotate(45deg);
-        top: 25px;
-    }
-    span:nth-of-type(2) {
-        transform: rotate(765deg);
-    }
-    span:nth-of-type(3) {
-        transform: rotate(320deg);
-        top: 25px;
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(45deg);
+            top: 25px;
+        }
+        span:nth-of-type(2) {
+            transform: rotate(765deg);
+        }
+        span:nth-of-type(3) {
+            transform: rotate(320deg);
+            top: 25px;
+        }
     }
 }
 
 // 2 / X2
-.tasty-hamburger-3 {@include standardSettings(2); }
+.tasty-hamburger-3 {
+    @include standardSettings(2);
 
-.tasty-hamburger-3.tasty-toggled, .tasty-hamburger-3-dark.tasty-toggled {
-    span:nth-of-type(1) {
-        transform: rotate(45deg);
-        top: 25px;
-    }
-    span:nth-of-type(2) {
-        transform: rotate(-45deg);
-        top: 25px;
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(45deg);
+            top: 25px;
+        }
+        span:nth-of-type(2) {
+            transform: rotate(-45deg);
+            top: 25px;
+        }
     }
 }
 
 // 3 / X2
-.tasty-hamburger-4 {@include standardSettings(3); }
+.tasty-hamburger-4 {
+    @include standardSettings(3);
 
-.tasty-hamburger-4.tasty-toggled, .tasty-hamburger-4-dark.tasty-toggled {
-    span:nth-of-type(1) {
-        transform: rotate(45deg);
-        top: 25px;
-    }
-    span:nth-of-type(2) {
-        transform: rotate(45deg);
-        top: 25px;
-    }
-    span:nth-of-type(3) {
-        transform: rotate(-45deg);
-        top: 25px;
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(45deg);
+            top: 25px;
+        }
+        span:nth-of-type(2) {
+            transform: rotate(45deg);
+            top: 25px;
+        }
+        span:nth-of-type(3) {
+            transform: rotate(-45deg);
+            top: 25px;
+        }
     }
 }
 
-// 3 / <- left
-.tasty-hamburger-5 {@include standardSettings(3); }
 
-.tasty-hamburger-5.tasty-toggled, .tasty-hamburger-5-dark.tasty-toggled {
-    span:nth-of-type(1) {
-        transform: rotate(-45deg);
-        width: 50%;
-        top: 50px / 4 + 5px;
-    }
-    span:nth-of-type(2) {
-        top: 25px;
-        width: 50%;
-        left: 10px;
-    }
-    span:nth-of-type(3) {
-        transform: rotate(45deg);
-        width: 50%;
-        top: 50px * 3 / 4 - 5px;
+
+// 3 / <- left
+.tasty-hamburger-5 {
+    @include standardSettings(3);
+
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(-45deg);
+            width: 50%;
+            top: 50px / 4 + 5px;
+        }
+        span:nth-of-type(2) {
+            top: 25px;
+            width: 50%;
+            left: 10px;
+        }
+        span:nth-of-type(3) {
+            transform: rotate(45deg);
+            width: 50%;
+            top: 50px * 3 / 4 - 5px;
+        }
     }
 }
 
 // 3 / <- bottom
-.tasty-hamburger-6 {@include standardSettings(3); }
+.tasty-hamburger-6 {
+    @include standardSettings(3);
 
-.tasty-hamburger-6.tasty-toggled, .tasty-hamburger-6-dark.tasty-toggled {
-    span:nth-of-type(1) {
-        transform: rotate(-90deg);
-        top: 25px;
-        width: 50%;
-        left: 12.5px;
-    }
-    span:nth-of-type(2) {
-        top: 25px + 25px / 4;
-        transform: rotate(-45deg);
-        left: 20px;
-        width: 50%;
-    }
-    span:nth-of-type(3) {
-        transform: rotate(45deg);
-        top: 25px + 25px / 4;
-        width:50%;
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(-90deg);
+            top: 25px;
+            width: 50%;
+            left: 12.5px;
+        }
+        span:nth-of-type(2) {
+            top: 25px + 25px / 4;
+            transform: rotate(-45deg);
+            left: 20px;
+            width: 50%;
+        }
+        span:nth-of-type(3) {
+            transform: rotate(45deg);
+            top: 25px + 25px / 4;
+            width:50%;
+        }
     }
 }
 
 // 3 / <- right
-.tasty-hamburger-7 {@include standardSettings(3); }
+.tasty-hamburger-7 {
+    @include standardSettings(3);
 
-.tasty-hamburger-7.tasty-toggled, .tasty-hamburger-7-dark.tasty-toggled {
-    span:nth-of-type(1) {
-        transform: rotate(45deg);
-        width: 50%;
-        top: 50px / 4 + 5px;
-        left: 10px;
-    }
-    span:nth-of-type(2) {
-        top: 25px;
-        width: 50%;
-    }
-    span:nth-of-type(3) {
-        transform: rotate(-45deg);
-        width: 50%;
-        top: 50px * 3 / 4 - 5px;
-        left: 10px;
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(45deg);
+            width: 50%;
+            top: 50px / 4 + 5px;
+            left: 10px;
+        }
+        span:nth-of-type(2) {
+            top: 25px;
+            width: 50%;
+        }
+        span:nth-of-type(3) {
+            transform: rotate(-45deg);
+            width: 50%;
+            top: 50px * 3 / 4 - 5px;
+            left: 10px;
+        }
     }
 }
 
 // 3 / <- top
-.tasty-hamburger-8 {@include standardSettings(3); }
+.tasty-hamburger-8 {
+    @include standardSettings(3);
 
-.tasty-hamburger-8.tasty-toggled, .tasty-hamburger-8-dark.tasty-toggled {
-    span:nth-of-type(1) {
-        transform: rotate(-90deg);
-        top: 30px;
-        width: 50%;
-        left: 12.5px;
-    }
-    span:nth-of-type(2) {
-        top: 25px;
-        transform: rotate(45deg);
-        left: 20px;
-        width: 50%;
-    }
-    span:nth-of-type(3) {
-        transform: rotate(-45deg);
-        width:50%;
-        top: 25px;
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(-90deg);
+            top: 30px;
+            width: 50%;
+            left: 12.5px;
+        }
+        span:nth-of-type(2) {
+            top: 25px;
+            transform: rotate(45deg);
+            left: 20px;
+            width: 50%;
+        }
+        span:nth-of-type(3) {
+            transform: rotate(-45deg);
+            width:50%;
+            top: 25px;
+        }
     }
 }

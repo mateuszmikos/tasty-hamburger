@@ -79,13 +79,13 @@
   display: block;
 }
 
-.tasty-hamburger-1.tasty-toggled span:nth-of-type(1), .tasty-hamburger-1-dark.tasty-toggled span:nth-of-type(1) {
+.tasty-hamburger-1.tasty-toggled span:nth-of-type(1) {
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
   top: 25px;
 }
 
-.tasty-hamburger-1.tasty-toggled span:nth-of-type(2), .tasty-hamburger-1-dark.tasty-toggled span:nth-of-type(2) {
+.tasty-hamburger-1.tasty-toggled span:nth-of-type(2) {
   -webkit-transform: rotate(320deg);
           transform: rotate(320deg);
   top: 25px;
@@ -167,18 +167,18 @@
   display: block;
 }
 
-.tasty-hamburger-2.tasty-toggled span:nth-of-type(1), .tasty-hamburger-2-dark.tasty-toggled span:nth-of-type(1) {
+.tasty-hamburger-2.tasty-toggled span:nth-of-type(1) {
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
   top: 25px;
 }
 
-.tasty-hamburger-2.tasty-toggled span:nth-of-type(2), .tasty-hamburger-2-dark.tasty-toggled span:nth-of-type(2) {
+.tasty-hamburger-2.tasty-toggled span:nth-of-type(2) {
   -webkit-transform: rotate(765deg);
           transform: rotate(765deg);
 }
 
-.tasty-hamburger-2.tasty-toggled span:nth-of-type(3), .tasty-hamburger-2-dark.tasty-toggled span:nth-of-type(3) {
+.tasty-hamburger-2.tasty-toggled span:nth-of-type(3) {
   -webkit-transform: rotate(320deg);
           transform: rotate(320deg);
   top: 25px;
@@ -260,13 +260,13 @@
   display: block;
 }
 
-.tasty-hamburger-3.tasty-toggled span:nth-of-type(1), .tasty-hamburger-3-dark.tasty-toggled span:nth-of-type(1) {
+.tasty-hamburger-3.tasty-toggled span:nth-of-type(1) {
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
   top: 25px;
 }
 
-.tasty-hamburger-3.tasty-toggled span:nth-of-type(2), .tasty-hamburger-3-dark.tasty-toggled span:nth-of-type(2) {
+.tasty-hamburger-3.tasty-toggled span:nth-of-type(2) {
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
   top: 25px;
@@ -348,19 +348,19 @@
   display: block;
 }
 
-.tasty-hamburger-4.tasty-toggled span:nth-of-type(1), .tasty-hamburger-4-dark.tasty-toggled span:nth-of-type(1) {
+.tasty-hamburger-4.tasty-toggled span:nth-of-type(1) {
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
   top: 25px;
 }
 
-.tasty-hamburger-4.tasty-toggled span:nth-of-type(2), .tasty-hamburger-4-dark.tasty-toggled span:nth-of-type(2) {
+.tasty-hamburger-4.tasty-toggled span:nth-of-type(2) {
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
   top: 25px;
 }
 
-.tasty-hamburger-4.tasty-toggled span:nth-of-type(3), .tasty-hamburger-4-dark.tasty-toggled span:nth-of-type(3) {
+.tasty-hamburger-4.tasty-toggled span:nth-of-type(3) {
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
   top: 25px;
@@ -442,20 +442,20 @@
   display: block;
 }
 
-.tasty-hamburger-5.tasty-toggled span:nth-of-type(1), .tasty-hamburger-5-dark.tasty-toggled span:nth-of-type(1) {
+.tasty-hamburger-5.tasty-toggled span:nth-of-type(1) {
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
   width: 50%;
   top: 17.5px;
 }
 
-.tasty-hamburger-5.tasty-toggled span:nth-of-type(2), .tasty-hamburger-5-dark.tasty-toggled span:nth-of-type(2) {
+.tasty-hamburger-5.tasty-toggled span:nth-of-type(2) {
   top: 25px;
   width: 50%;
   left: 10px;
 }
 
-.tasty-hamburger-5.tasty-toggled span:nth-of-type(3), .tasty-hamburger-5-dark.tasty-toggled span:nth-of-type(3) {
+.tasty-hamburger-5.tasty-toggled span:nth-of-type(3) {
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
   width: 50%;
@@ -538,7 +538,7 @@
   display: block;
 }
 
-.tasty-hamburger-6.tasty-toggled span:nth-of-type(1), .tasty-hamburger-6-dark.tasty-toggled span:nth-of-type(1) {
+.tasty-hamburger-6.tasty-toggled span:nth-of-type(1) {
   -webkit-transform: rotate(-90deg);
           transform: rotate(-90deg);
   top: 25px;
@@ -546,7 +546,7 @@
   left: 12.5px;
 }
 
-.tasty-hamburger-6.tasty-toggled span:nth-of-type(2), .tasty-hamburger-6-dark.tasty-toggled span:nth-of-type(2) {
+.tasty-hamburger-6.tasty-toggled span:nth-of-type(2) {
   top: 31.25px;
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
@@ -554,7 +554,7 @@
   width: 50%;
 }
 
-.tasty-hamburger-6.tasty-toggled span:nth-of-type(3), .tasty-hamburger-6-dark.tasty-toggled span:nth-of-type(3) {
+.tasty-hamburger-6.tasty-toggled span:nth-of-type(3) {
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
   top: 31.25px;
@@ -637,7 +637,7 @@
   display: block;
 }
 
-.tasty-hamburger-7.tasty-toggled span:nth-of-type(1), .tasty-hamburger-7-dark.tasty-toggled span:nth-of-type(1) {
+.tasty-hamburger-7.tasty-toggled span:nth-of-type(1) {
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
   width: 50%;
@@ -645,12 +645,12 @@
   left: 10px;
 }
 
-.tasty-hamburger-7.tasty-toggled span:nth-of-type(2), .tasty-hamburger-7-dark.tasty-toggled span:nth-of-type(2) {
+.tasty-hamburger-7.tasty-toggled span:nth-of-type(2) {
   top: 25px;
   width: 50%;
 }
 
-.tasty-hamburger-7.tasty-toggled span:nth-of-type(3), .tasty-hamburger-7-dark.tasty-toggled span:nth-of-type(3) {
+.tasty-hamburger-7.tasty-toggled span:nth-of-type(3) {
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
   width: 50%;
@@ -734,7 +734,7 @@
   display: block;
 }
 
-.tasty-hamburger-8.tasty-toggled span:nth-of-type(1), .tasty-hamburger-8-dark.tasty-toggled span:nth-of-type(1) {
+.tasty-hamburger-8.tasty-toggled span:nth-of-type(1) {
   -webkit-transform: rotate(-90deg);
           transform: rotate(-90deg);
   top: 30px;
@@ -742,7 +742,7 @@
   left: 12.5px;
 }
 
-.tasty-hamburger-8.tasty-toggled span:nth-of-type(2), .tasty-hamburger-8-dark.tasty-toggled span:nth-of-type(2) {
+.tasty-hamburger-8.tasty-toggled span:nth-of-type(2) {
   top: 25px;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
@@ -750,7 +750,7 @@
   width: 50%;
 }
 
-.tasty-hamburger-8.tasty-toggled span:nth-of-type(3), .tasty-hamburger-8-dark.tasty-toggled span:nth-of-type(3) {
+.tasty-hamburger-8.tasty-toggled span:nth-of-type(3) {
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
   width: 50%;
