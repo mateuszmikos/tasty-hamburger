@@ -1,4 +1,4 @@
-var number_of_hamburgers = 20;
+var number_of_hamburgers = 25;
 
 function prepare_tasty_hamburger()
 {

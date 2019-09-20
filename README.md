@@ -18,3 +18,7 @@ Tasty Hamburger is a collection of best hamburgers. You can simply put it in you
 `<script src="js/tasty-hamburger.min.js"></script>`
 4. Create div with `.tasty-hamburger-1` or `.tasty-hamburger-2` or `.tasty-hamburger-...` class.
 5. You're ready to go!
+
+### Examples
+
+You can find all examples in `examle.html` file.
