@@ -19,6 +19,7 @@
         transition: all 1s;
         span {
             transition: all 1s;
+            animation-duration: 2s;
         }
     }
 
@@ -26,6 +27,7 @@
         transition: all 0.2s;
         span {
             transition: all 0.2;
+            animation-duration: 0.5s;
         }
     }
 
@@ -39,6 +41,7 @@
         height: 3px;
         width: 40px;
         background: white;
+        animation-duration: 1s;
 
         &::before, &::after {
             position: absolute;
@@ -242,6 +245,202 @@
             transform: rotate(-45deg);
             width:50%;
             top: 25px;
+        }
+    }
+}
+
+// 2 /  //
+.tasty-hamburger-9 {
+    @include standardSettings(2);
+
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(-45deg);
+            top: 30px;
+            width: 50%;
+            left: 20px;
+        }
+        span:nth-of-type(2) {
+            top: 25px;
+            transform: rotate(-45deg);
+            left: 12.5px;
+            width: 50%;
+        }
+    }
+}
+
+// 2 /  \\
+.tasty-hamburger-10 {
+    @include standardSettings(2);
+
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(45deg);
+            top: 30px;
+            width: 50%;
+            left: 12.5px;
+        }
+        span:nth-of-type(2) {
+            top: 25px;
+            transform: rotate(45deg);
+            left: 20px;
+            width: 50%;
+        }
+    }
+}
+
+// 3 /  ///
+.tasty-hamburger-11 {
+    @include standardSettings(3);
+
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(-45deg);
+            top: 30px;
+            width: 50%;
+            left: 20px;
+        }
+        span:nth-of-type(2) {
+            top: 25px;
+            transform: rotate(-45deg);
+            left: 15px;
+            width: 50%;
+        }
+        span:nth-of-type(3) {
+            top: 20px;
+            transform: rotate(-45deg);
+            left: 10px;
+            width: 50%;
+        }
+    }
+}
+
+// 3 /  \\\
+.tasty-hamburger-12 {
+    @include standardSettings(3);
+
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(45deg);
+            top: 30px;
+            width: 50%;
+            left: 10px;
+        }
+        span:nth-of-type(2) {
+            top: 25px;
+            transform: rotate(45deg);
+            left: 15px;
+            width: 50%;
+        }
+        span:nth-of-type(3) {
+            top: 20px;
+            transform: rotate(45deg);
+            left: 20px;
+            width: 50%;
+        }
+    }
+}
+
+// 3 /  /-\
+.tasty-hamburger-13 {
+    @include standardSettings(3);
+
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(-45deg);
+            top: 25px;
+        }
+        span:nth-of-type(2) {
+            transform: rotate(180deg);
+        }
+        span:nth-of-type(3) {
+            transform: rotate(45deg);
+            top: 25px;
+        }
+    }
+}
+
+// 3 /  /|\
+.tasty-hamburger-14 {
+    @include standardSettings(3);
+
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            transform: rotate(-45deg);
+            top: 25px;
+        }
+        span:nth-of-type(2) {
+            transform: rotate(270deg);
+        }
+        span:nth-of-type(3) {
+            transform: rotate(45deg);
+            top: 25px;
+        }
+    }
+}
+
+// 3 /  =
+@keyframes anim-15 {
+    25% { top: 45px; }
+    50% { top: 180px; }
+    75% { top: 15px; }
+}
+
+@keyframes anim-15-back {
+    25% { top: 15px; }
+    50% { top: -180px; }
+    75% { top: 45px; }
+}
+
+.tasty-hamburger-15 {
+    @include standardSettings(3);
+
+    span {
+        animation-name: anim-15-back;
+    }
+    
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            animation-name: anim-15;
+        }
+        span:nth-of-type(2) {
+            animation-name: anim-15;
+        }
+        span:nth-of-type(3) {
+            animation-name: anim-15;
+        }
+    }
+}
+
+// 3 /  =
+@keyframes anim-16 {
+    75% { left: 80px; }
+    100% { left: 0px; }
+}
+
+@keyframes anim-16-back {
+    75% { left: -80px; }
+    100% { left: 0px; }
+}
+.tasty-hamburger-16 {
+    @include standardSettings(3);
+
+    span {
+        animation-name: anim-16-back;
+    }
+    
+    &.tasty-toggled {
+        span:nth-of-type(1) {
+            animation-name: anim-16;
+            transform: rotate(90deg);
+        }
+        span:nth-of-type(2) {
+            animation-name: anim-16;
+            transform: rotate(-90deg);
+        }
+        span:nth-of-type(3) {
+            animation-name: anim-16;
+            transform: rotate(270deg);
         }
     }
 }

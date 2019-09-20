@@ -24,6 +24,8 @@
 .tasty-hamburger-1.slow-anim span {
   -webkit-transition: all 1s;
   transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
 }
 
 .tasty-hamburger-1.fast-anim {
@@ -34,6 +36,8 @@
 .tasty-hamburger-1.fast-anim span {
   -webkit-transition: all 0.2;
   transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
 }
 
 .tasty-hamburger-1 span {
@@ -47,6 +51,8 @@
   height: 3px;
   width: 40px;
   background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
 }
 
 .tasty-hamburger-1 span::before, .tasty-hamburger-1 span::after {
@@ -113,6 +119,8 @@
 .tasty-hamburger-2.slow-anim span {
   -webkit-transition: all 1s;
   transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
 }
 
 .tasty-hamburger-2.fast-anim {
@@ -123,6 +131,8 @@
 .tasty-hamburger-2.fast-anim span {
   -webkit-transition: all 0.2;
   transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
 }
 
 .tasty-hamburger-2 span {
@@ -136,6 +146,8 @@
   height: 3px;
   width: 40px;
   background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
 }
 
 .tasty-hamburger-2 span::before, .tasty-hamburger-2 span::after {
@@ -207,6 +219,8 @@
 .tasty-hamburger-3.slow-anim span {
   -webkit-transition: all 1s;
   transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
 }
 
 .tasty-hamburger-3.fast-anim {
@@ -217,6 +231,8 @@
 .tasty-hamburger-3.fast-anim span {
   -webkit-transition: all 0.2;
   transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
 }
 
 .tasty-hamburger-3 span {
@@ -230,6 +246,8 @@
   height: 3px;
   width: 40px;
   background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
 }
 
 .tasty-hamburger-3 span::before, .tasty-hamburger-3 span::after {
@@ -296,6 +314,8 @@
 .tasty-hamburger-4.slow-anim span {
   -webkit-transition: all 1s;
   transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
 }
 
 .tasty-hamburger-4.fast-anim {
@@ -306,6 +326,8 @@
 .tasty-hamburger-4.fast-anim span {
   -webkit-transition: all 0.2;
   transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
 }
 
 .tasty-hamburger-4 span {
@@ -319,6 +341,8 @@
   height: 3px;
   width: 40px;
   background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
 }
 
 .tasty-hamburger-4 span::before, .tasty-hamburger-4 span::after {
@@ -391,6 +415,8 @@
 .tasty-hamburger-5.slow-anim span {
   -webkit-transition: all 1s;
   transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
 }
 
 .tasty-hamburger-5.fast-anim {
@@ -401,6 +427,8 @@
 .tasty-hamburger-5.fast-anim span {
   -webkit-transition: all 0.2;
   transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
 }
 
 .tasty-hamburger-5 span {
@@ -414,6 +442,8 @@
   height: 3px;
   width: 40px;
   background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
 }
 
 .tasty-hamburger-5 span::before, .tasty-hamburger-5 span::after {
@@ -488,6 +518,8 @@
 .tasty-hamburger-6.slow-anim span {
   -webkit-transition: all 1s;
   transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
 }
 
 .tasty-hamburger-6.fast-anim {
@@ -498,6 +530,8 @@
 .tasty-hamburger-6.fast-anim span {
   -webkit-transition: all 0.2;
   transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
 }
 
 .tasty-hamburger-6 span {
@@ -511,6 +545,8 @@
   height: 3px;
   width: 40px;
   background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
 }
 
 .tasty-hamburger-6 span::before, .tasty-hamburger-6 span::after {
@@ -588,6 +624,8 @@
 .tasty-hamburger-7.slow-anim span {
   -webkit-transition: all 1s;
   transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
 }
 
 .tasty-hamburger-7.fast-anim {
@@ -598,6 +636,8 @@
 .tasty-hamburger-7.fast-anim span {
   -webkit-transition: all 0.2;
   transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
 }
 
 .tasty-hamburger-7 span {
@@ -611,6 +651,8 @@
   height: 3px;
   width: 40px;
   background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
 }
 
 .tasty-hamburger-7 span::before, .tasty-hamburger-7 span::after {
@@ -686,6 +728,8 @@
 .tasty-hamburger-8.slow-anim span {
   -webkit-transition: all 1s;
   transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
 }
 
 .tasty-hamburger-8.fast-anim {
@@ -696,6 +740,8 @@
 .tasty-hamburger-8.fast-anim span {
   -webkit-transition: all 0.2;
   transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
 }
 
 .tasty-hamburger-8 span {
@@ -709,6 +755,8 @@
   height: 3px;
   width: 40px;
   background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
 }
 
 .tasty-hamburger-8 span::before, .tasty-hamburger-8 span::after {
@@ -763,5 +811,913 @@
           transform: rotate(-45deg);
   width: 50%;
   top: 25px;
+}
+
+.tasty-hamburger-9 {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  padding: 0;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.tasty-hamburger-9.slow-anim {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.tasty-hamburger-9.slow-anim span {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+.tasty-hamburger-9.fast-anim {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.tasty-hamburger-9.fast-anim span {
+  -webkit-transition: all 0.2;
+  transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+}
+
+.tasty-hamburger-9 span {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 5px;
+  right: 5px;
+  height: 3px;
+  width: 40px;
+  background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+.tasty-hamburger-9 span::before, .tasty-hamburger-9 span::after {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  content: "";
+}
+
+.tasty-hamburger-9.dark-toggler span {
+  background: black;
+}
+
+.tasty-hamburger-9.dark-toggler span::before, .tasty-hamburger-9.dark-toggler span::after {
+  background-color: #000;
+}
+
+.tasty-hamburger-9 span:nth-of-type(1) {
+  top: 16.66667px;
+}
+
+.tasty-hamburger-9 span:nth-of-type(3) {
+  display: none;
+}
+
+.tasty-hamburger-9 span:nth-of-type(2) {
+  top: 33.33333px;
+  display: block;
+}
+
+.tasty-hamburger-9.tasty-toggled span:nth-of-type(1) {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  top: 30px;
+  width: 50%;
+  left: 20px;
+}
+
+.tasty-hamburger-9.tasty-toggled span:nth-of-type(2) {
+  top: 25px;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  left: 12.5px;
+  width: 50%;
+}
+
+.tasty-hamburger-10 {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  padding: 0;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.tasty-hamburger-10.slow-anim {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.tasty-hamburger-10.slow-anim span {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+.tasty-hamburger-10.fast-anim {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.tasty-hamburger-10.fast-anim span {
+  -webkit-transition: all 0.2;
+  transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+}
+
+.tasty-hamburger-10 span {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 5px;
+  right: 5px;
+  height: 3px;
+  width: 40px;
+  background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+.tasty-hamburger-10 span::before, .tasty-hamburger-10 span::after {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  content: "";
+}
+
+.tasty-hamburger-10.dark-toggler span {
+  background: black;
+}
+
+.tasty-hamburger-10.dark-toggler span::before, .tasty-hamburger-10.dark-toggler span::after {
+  background-color: #000;
+}
+
+.tasty-hamburger-10 span:nth-of-type(1) {
+  top: 16.66667px;
+}
+
+.tasty-hamburger-10 span:nth-of-type(3) {
+  display: none;
+}
+
+.tasty-hamburger-10 span:nth-of-type(2) {
+  top: 33.33333px;
+  display: block;
+}
+
+.tasty-hamburger-10.tasty-toggled span:nth-of-type(1) {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  top: 30px;
+  width: 50%;
+  left: 12.5px;
+}
+
+.tasty-hamburger-10.tasty-toggled span:nth-of-type(2) {
+  top: 25px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  left: 20px;
+  width: 50%;
+}
+
+.tasty-hamburger-11 {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  padding: 0;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.tasty-hamburger-11.slow-anim {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.tasty-hamburger-11.slow-anim span {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+.tasty-hamburger-11.fast-anim {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.tasty-hamburger-11.fast-anim span {
+  -webkit-transition: all 0.2;
+  transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+}
+
+.tasty-hamburger-11 span {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 5px;
+  right: 5px;
+  height: 3px;
+  width: 40px;
+  background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+.tasty-hamburger-11 span::before, .tasty-hamburger-11 span::after {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  content: "";
+}
+
+.tasty-hamburger-11.dark-toggler span {
+  background: black;
+}
+
+.tasty-hamburger-11.dark-toggler span::before, .tasty-hamburger-11.dark-toggler span::after {
+  background-color: #000;
+}
+
+.tasty-hamburger-11 span:nth-of-type(1) {
+  top: 12.5px;
+}
+
+.tasty-hamburger-11 span:nth-of-type(3) {
+  display: none;
+}
+
+.tasty-hamburger-11 span:nth-of-type(3) {
+  top: 37.5px;
+  display: block;
+}
+
+.tasty-hamburger-11.tasty-toggled span:nth-of-type(1) {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  top: 30px;
+  width: 50%;
+  left: 20px;
+}
+
+.tasty-hamburger-11.tasty-toggled span:nth-of-type(2) {
+  top: 25px;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  left: 15px;
+  width: 50%;
+}
+
+.tasty-hamburger-11.tasty-toggled span:nth-of-type(3) {
+  top: 20px;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  left: 10px;
+  width: 50%;
+}
+
+.tasty-hamburger-12 {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  padding: 0;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.tasty-hamburger-12.slow-anim {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.tasty-hamburger-12.slow-anim span {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+.tasty-hamburger-12.fast-anim {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.tasty-hamburger-12.fast-anim span {
+  -webkit-transition: all 0.2;
+  transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+}
+
+.tasty-hamburger-12 span {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 5px;
+  right: 5px;
+  height: 3px;
+  width: 40px;
+  background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+.tasty-hamburger-12 span::before, .tasty-hamburger-12 span::after {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  content: "";
+}
+
+.tasty-hamburger-12.dark-toggler span {
+  background: black;
+}
+
+.tasty-hamburger-12.dark-toggler span::before, .tasty-hamburger-12.dark-toggler span::after {
+  background-color: #000;
+}
+
+.tasty-hamburger-12 span:nth-of-type(1) {
+  top: 12.5px;
+}
+
+.tasty-hamburger-12 span:nth-of-type(3) {
+  display: none;
+}
+
+.tasty-hamburger-12 span:nth-of-type(3) {
+  top: 37.5px;
+  display: block;
+}
+
+.tasty-hamburger-12.tasty-toggled span:nth-of-type(1) {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  top: 30px;
+  width: 50%;
+  left: 10px;
+}
+
+.tasty-hamburger-12.tasty-toggled span:nth-of-type(2) {
+  top: 25px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  left: 15px;
+  width: 50%;
+}
+
+.tasty-hamburger-12.tasty-toggled span:nth-of-type(3) {
+  top: 20px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  left: 20px;
+  width: 50%;
+}
+
+.tasty-hamburger-13 {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  padding: 0;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.tasty-hamburger-13.slow-anim {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.tasty-hamburger-13.slow-anim span {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+.tasty-hamburger-13.fast-anim {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.tasty-hamburger-13.fast-anim span {
+  -webkit-transition: all 0.2;
+  transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+}
+
+.tasty-hamburger-13 span {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 5px;
+  right: 5px;
+  height: 3px;
+  width: 40px;
+  background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+.tasty-hamburger-13 span::before, .tasty-hamburger-13 span::after {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  content: "";
+}
+
+.tasty-hamburger-13.dark-toggler span {
+  background: black;
+}
+
+.tasty-hamburger-13.dark-toggler span::before, .tasty-hamburger-13.dark-toggler span::after {
+  background-color: #000;
+}
+
+.tasty-hamburger-13 span:nth-of-type(1) {
+  top: 12.5px;
+}
+
+.tasty-hamburger-13 span:nth-of-type(3) {
+  display: none;
+}
+
+.tasty-hamburger-13 span:nth-of-type(3) {
+  top: 37.5px;
+  display: block;
+}
+
+.tasty-hamburger-13.tasty-toggled span:nth-of-type(1) {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  top: 25px;
+}
+
+.tasty-hamburger-13.tasty-toggled span:nth-of-type(2) {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+
+.tasty-hamburger-13.tasty-toggled span:nth-of-type(3) {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  top: 25px;
+}
+
+.tasty-hamburger-14 {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  padding: 0;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.tasty-hamburger-14.slow-anim {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.tasty-hamburger-14.slow-anim span {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+.tasty-hamburger-14.fast-anim {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.tasty-hamburger-14.fast-anim span {
+  -webkit-transition: all 0.2;
+  transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+}
+
+.tasty-hamburger-14 span {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 5px;
+  right: 5px;
+  height: 3px;
+  width: 40px;
+  background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+.tasty-hamburger-14 span::before, .tasty-hamburger-14 span::after {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  content: "";
+}
+
+.tasty-hamburger-14.dark-toggler span {
+  background: black;
+}
+
+.tasty-hamburger-14.dark-toggler span::before, .tasty-hamburger-14.dark-toggler span::after {
+  background-color: #000;
+}
+
+.tasty-hamburger-14 span:nth-of-type(1) {
+  top: 12.5px;
+}
+
+.tasty-hamburger-14 span:nth-of-type(3) {
+  display: none;
+}
+
+.tasty-hamburger-14 span:nth-of-type(3) {
+  top: 37.5px;
+  display: block;
+}
+
+.tasty-hamburger-14.tasty-toggled span:nth-of-type(1) {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  top: 25px;
+}
+
+.tasty-hamburger-14.tasty-toggled span:nth-of-type(2) {
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
+}
+
+.tasty-hamburger-14.tasty-toggled span:nth-of-type(3) {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  top: 25px;
+}
+
+@-webkit-keyframes anim-15 {
+  25% {
+    top: 45px;
+  }
+  50% {
+    top: 180px;
+  }
+  75% {
+    top: 15px;
+  }
+}
+
+@keyframes anim-15 {
+  25% {
+    top: 45px;
+  }
+  50% {
+    top: 180px;
+  }
+  75% {
+    top: 15px;
+  }
+}
+
+@-webkit-keyframes anim-15-back {
+  25% {
+    top: 15px;
+  }
+  50% {
+    top: -180px;
+  }
+  75% {
+    top: 45px;
+  }
+}
+
+@keyframes anim-15-back {
+  25% {
+    top: 15px;
+  }
+  50% {
+    top: -180px;
+  }
+  75% {
+    top: 45px;
+  }
+}
+
+.tasty-hamburger-15 {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  padding: 0;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.tasty-hamburger-15.slow-anim {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.tasty-hamburger-15.slow-anim span {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+.tasty-hamburger-15.fast-anim {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.tasty-hamburger-15.fast-anim span {
+  -webkit-transition: all 0.2;
+  transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+}
+
+.tasty-hamburger-15 span {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 5px;
+  right: 5px;
+  height: 3px;
+  width: 40px;
+  background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+.tasty-hamburger-15 span::before, .tasty-hamburger-15 span::after {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  content: "";
+}
+
+.tasty-hamburger-15.dark-toggler span {
+  background: black;
+}
+
+.tasty-hamburger-15.dark-toggler span::before, .tasty-hamburger-15.dark-toggler span::after {
+  background-color: #000;
+}
+
+.tasty-hamburger-15 span:nth-of-type(1) {
+  top: 12.5px;
+}
+
+.tasty-hamburger-15 span:nth-of-type(3) {
+  display: none;
+}
+
+.tasty-hamburger-15 span:nth-of-type(3) {
+  top: 37.5px;
+  display: block;
+}
+
+.tasty-hamburger-15 span {
+  -webkit-animation-name: anim-15-back;
+          animation-name: anim-15-back;
+}
+
+.tasty-hamburger-15.tasty-toggled span:nth-of-type(1) {
+  -webkit-animation-name: anim-15;
+          animation-name: anim-15;
+}
+
+.tasty-hamburger-15.tasty-toggled span:nth-of-type(2) {
+  -webkit-animation-name: anim-15;
+          animation-name: anim-15;
+}
+
+.tasty-hamburger-15.tasty-toggled span:nth-of-type(3) {
+  -webkit-animation-name: anim-15;
+          animation-name: anim-15;
+}
+
+@-webkit-keyframes anim-16 {
+  75% {
+    left: 80px;
+  }
+  100% {
+    left: 0px;
+  }
+}
+
+@keyframes anim-16 {
+  75% {
+    left: 80px;
+  }
+  100% {
+    left: 0px;
+  }
+}
+
+@-webkit-keyframes anim-16-back {
+  75% {
+    left: -80px;
+  }
+  100% {
+    left: 0px;
+  }
+}
+
+@keyframes anim-16-back {
+  75% {
+    left: -80px;
+  }
+  100% {
+    left: 0px;
+  }
+}
+
+.tasty-hamburger-16 {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  padding: 0;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.tasty-hamburger-16.slow-anim {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+.tasty-hamburger-16.slow-anim span {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+.tasty-hamburger-16.fast-anim {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.tasty-hamburger-16.fast-anim span {
+  -webkit-transition: all 0.2;
+  transition: all 0.2;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+}
+
+.tasty-hamburger-16 span {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 5px;
+  right: 5px;
+  height: 3px;
+  width: 40px;
+  background: white;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+}
+
+.tasty-hamburger-16 span::before, .tasty-hamburger-16 span::after {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #fff;
+  content: "";
+}
+
+.tasty-hamburger-16.dark-toggler span {
+  background: black;
+}
+
+.tasty-hamburger-16.dark-toggler span::before, .tasty-hamburger-16.dark-toggler span::after {
+  background-color: #000;
+}
+
+.tasty-hamburger-16 span:nth-of-type(1) {
+  top: 12.5px;
+}
+
+.tasty-hamburger-16 span:nth-of-type(3) {
+  display: none;
+}
+
+.tasty-hamburger-16 span:nth-of-type(3) {
+  top: 37.5px;
+  display: block;
+}
+
+.tasty-hamburger-16 span {
+  -webkit-animation-name: anim-16-back;
+          animation-name: anim-16-back;
+}
+
+.tasty-hamburger-16.tasty-toggled span:nth-of-type(1) {
+  -webkit-animation-name: anim-16;
+          animation-name: anim-16;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+
+.tasty-hamburger-16.tasty-toggled span:nth-of-type(2) {
+  -webkit-animation-name: anim-16;
+          animation-name: anim-16;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+
+.tasty-hamburger-16.tasty-toggled span:nth-of-type(3) {
+  -webkit-animation-name: anim-16;
+          animation-name: anim-16;
+  -webkit-transform: rotate(270deg);
+          transform: rotate(270deg);
 }
 /*# sourceMappingURL=tasty-hamburger.css.map */
