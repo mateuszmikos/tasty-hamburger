@@ -2,6 +2,7 @@
     Tasty Hamburger SCSS File
     https://github.com/mateuszmikos/tasty-hamburger
     Tasty-Hamburger
+    Version: 0.0.2
 */
 
 @mixin standardSettings($spans: 2) {
@@ -30,10 +31,10 @@
     &.fast-anim {
         transition: all 0.2s;
         span {
-            transition: all 0.2;
+            transition: all 0.2s;
             animation-duration: 0.5s;
             &::before, &::after {
-                transition: all 0.2;
+                transition: all 0.2s;
                 animation-duration: 0.5s;
             }
         }

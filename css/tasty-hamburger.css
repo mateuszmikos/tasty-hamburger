@@ -2,6 +2,7 @@
     Tasty Hamburger SCSS File
     https://github.com/mateuszmikos/tasty-hamburger
     Tasty-Hamburger
+    Version: 0.0.2
 */
 .tasty-hamburger-1 {
   display: block;
@@ -41,15 +42,15 @@
 }
 
 .tasty-hamburger-1.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-1.fast-anim span::before, .tasty-hamburger-1.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -154,15 +155,15 @@
 }
 
 .tasty-hamburger-2.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-2.fast-anim span::before, .tasty-hamburger-2.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -272,15 +273,15 @@
 }
 
 .tasty-hamburger-3.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-3.fast-anim span::before, .tasty-hamburger-3.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -385,15 +386,15 @@
 }
 
 .tasty-hamburger-4.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-4.fast-anim span::before, .tasty-hamburger-4.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -504,15 +505,15 @@
 }
 
 .tasty-hamburger-5.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-5.fast-anim span::before, .tasty-hamburger-5.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -625,15 +626,15 @@
 }
 
 .tasty-hamburger-6.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-6.fast-anim span::before, .tasty-hamburger-6.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -749,15 +750,15 @@
 }
 
 .tasty-hamburger-7.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-7.fast-anim span::before, .tasty-hamburger-7.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -871,15 +872,15 @@
 }
 
 .tasty-hamburger-8.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-8.fast-anim span::before, .tasty-hamburger-8.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -995,15 +996,15 @@
 }
 
 .tasty-hamburger-9.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-9.fast-anim span::before, .tasty-hamburger-9.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -1112,15 +1113,15 @@
 }
 
 .tasty-hamburger-10.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-10.fast-anim span::before, .tasty-hamburger-10.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -1229,15 +1230,15 @@
 }
 
 .tasty-hamburger-11.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-11.fast-anim span::before, .tasty-hamburger-11.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -1354,15 +1355,15 @@
 }
 
 .tasty-hamburger-12.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-12.fast-anim span::before, .tasty-hamburger-12.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -1479,15 +1480,15 @@
 }
 
 .tasty-hamburger-13.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-13.fast-anim span::before, .tasty-hamburger-13.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -1597,15 +1598,15 @@
 }
 
 .tasty-hamburger-14.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-14.fast-anim span::before, .tasty-hamburger-14.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -1763,15 +1764,15 @@
 }
 
 .tasty-hamburger-15.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-15.fast-anim span::before, .tasty-hamburger-15.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -1920,15 +1921,15 @@
 }
 
 .tasty-hamburger-16.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-16.fast-anim span::before, .tasty-hamburger-16.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -2071,15 +2072,15 @@
 }
 
 .tasty-hamburger-17.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-17.fast-anim span::before, .tasty-hamburger-17.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -2414,15 +2415,15 @@
 }
 
 .tasty-hamburger-18.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-18.fast-anim span::before, .tasty-hamburger-18.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -2649,15 +2650,15 @@
 }
 
 .tasty-hamburger-19.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-19.fast-anim span::before, .tasty-hamburger-19.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -2844,15 +2845,15 @@
 }
 
 .tasty-hamburger-20.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-20.fast-anim span::before, .tasty-hamburger-20.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -3041,15 +3042,15 @@
 }
 
 .tasty-hamburger-21.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-21.fast-anim span::before, .tasty-hamburger-21.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
@@ -3265,15 +3266,15 @@
 }
 
 .tasty-hamburger-22.fast-anim span {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
 
 .tasty-hamburger-22.fast-anim span::before, .tasty-hamburger-22.fast-anim span::after {
-  -webkit-transition: all 0.2;
-  transition: all 0.2;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
   -webkit-animation-duration: 0.5s;
           animation-duration: 0.5s;
 }
