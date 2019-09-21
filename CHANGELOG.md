@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.0.1] - 2019.09.21
+### FIRST RELEASE!
+### Added
+- New data attributes (toggle-id, toggle-class, reverse-toggle-id, reverse-toggle-class, toggle-add-class, reverse-toggle-add-class)
+
 
 ## [0.0.1] - 2019.09.20
 ### Added

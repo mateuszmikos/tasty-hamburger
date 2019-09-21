@@ -19,7 +19,7 @@ function create_tasty_hamburger(type, element) {
     element.setAttribute('onclick','tasty_toggler(this)');
 }
 
-function tasty_toggle_data($w = false, element)
+function tasty_toggle_data(w = false, element)
 {
     var toggle_id = element.getAttribute("data-toggle-id");
     var toggle_class = element.getAttribute("data-toggle-class");
@@ -27,6 +27,62 @@ function tasty_toggle_data($w = false, element)
     var reverse_toggle_class = element.getAttribute("data-reverse-toggle-class");
     var toggle_add_class = element.getAttribute("data-toggle-add-class");
     var reverse_toggle_add_class = element.getAttribute("data-reverse-toggle-add-class");
+
+    if (toggle_add_class !== null) {
+        if (toggle_id !== null) {
+            var e = document.getElementById(toggle_id);
+            if (typeof(e) != 'undefined' && e != null) {
+                if (w) {
+                    e.classList.add(toggle_add_class);
+                } else {
+                    e.classList.remove(toggle_add_class);
+                }
+            }
+        }
+
+        if (toggle_class !== null) {
+            var es = document.getElementsByClassName(toggle_class);
+            if (typeof(es) != 'undefined' && es != null) {
+                Array.prototype.forEach.call(es, function(e) {
+                    if (typeof(e) != 'undefined' && e != null) {
+                        if (w) {
+                            e.classList.add(toggle_add_class);
+                        } else {
+                            e.classList.remove(toggle_add_class);
+                        }
+                    }
+                });
+            }
+        }
+    }
+
+    if (reverse_toggle_add_class !== null) {
+        if (reverse_toggle_id !== null) {
+            var e = document.getElementById(reverse_toggle_id);
+            if (typeof(e) != 'undefined' && e != null) {
+                if (!w) {
+                    e.classList.add(reverse_toggle_add_class);
+                } else {
+                    e.classList.remove(reverse_toggle_add_class);
+                }
+            }
+        }
+
+        if (reverse_toggle_class !== null) {
+            var es = document.getElementsByClassName(reverse_toggle_class);
+            if (typeof(es) != 'undefined' && es != null) {
+                Array.prototype.forEach.call(es, function(e) {
+                    if (typeof(e) != 'undefined' && e != null) {
+                        if (!w) {
+                            e.classList.add(reverse_toggle_add_class);
+                        } else {
+                            e.classList.remove(reverse_toggle_add_class);
+                        }
+                    }
+                });
+            }
+        }
+    }
 }
 
 function tasty_toggler(element) {
