@@ -25,3 +25,16 @@ You may add something like `data-toggle-id="menu"` and `data-toggle-add-class="m
 ### Examples
 
 You can find all examples in `examle.html` file.
+
+### Available Speeds
+
+In Tasty Hamburger you can use three types of speed - slow, normal and fast.
+
+#### Normal animation
+
+For normal speed you don't need to add any class:
+
+`.tasty-hamburger-1`
+
+![](tasty-hamburger-1-normal-speed.gif)
+
