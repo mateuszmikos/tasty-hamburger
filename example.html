@@ -44,11 +44,20 @@
     <link rel="stylesheet" href="css/tasty-hamburger.css">
 </head>
 <body>
+    <div id="menu" class="menu">
+        This is menu
+    </div>
+
+    <div class="menu-2" id="menu-2" style="display: none;">
+        This is hidden menu
+    </div>
+
+
     <h3>Normal Animations:</h3>
 
     <div>
         <p>.tasty-hamburger-1</p>
-        <div class="tasty-hamburger-1"></div>
+        <div class="tasty-hamburger-1" data-toggle-id="menu" data-reverse-toggle-id="menu-2"></div>
     </div>
     <div class="bgw">
         <p>.tasty-hamburger-1.dark-toggler</p>

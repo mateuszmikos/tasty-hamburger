@@ -19,6 +19,9 @@ Tasty Hamburger is a collection of best hamburgers. You can simply put it in you
 4. Create div with `.tasty-hamburger-1` or `.tasty-hamburger-2` or `.tasty-hamburger-...` class.
 5. You're ready to go!
 
+You can use data attributes to control your menu when toggling Tasty Hamburger.
+You may add something like `data-toggle-id="menu"` and `data-toggle-add-class="menu-vertical"` to hamburger div. When you click Tasty Hamburger to element #menu will be added class menu-vertical, if you click again - class will be deleted. You can do it in reverse too! Like: `data-reverse-toggle-id="menu"` and `data-reverse-toggle-add-class="menu-vertical"`. You can use *-toggle-* and *-reverse-toggle-* together to create something great!
+
 ### Examples
 
 You can find all examples in `examle.html` file.
