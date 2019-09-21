@@ -36,5 +36,5 @@ For normal speed you don't need to add any class:
 
 `.tasty-hamburger-1`
 
-![](tasty-hamburger-1-normal-speed.gif)
+![](readme-gif/tasty-hamburger-1-normal-speed.gif)
 
