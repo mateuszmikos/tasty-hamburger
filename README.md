@@ -27,7 +27,7 @@ Tasty Hamburger is a collection of best hamburgers. You can simply put it in you
 
 ### Examples
 
-You can find all examples at [https://matt.aimweb.pl/tasty-hamburger](matt.aimweb.pl/tasty-hamburger) or in `example.html` file.
+You can find all examples at [matt.aimweb.pl/tasty-hamburger](https://matt.aimweb.pl/tasty-hamburger) or in `example.html` file.
 
 ### Available Speeds
 
