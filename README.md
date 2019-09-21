@@ -6,25 +6,28 @@ Check this big and yummy hamburger from Tasty Hamburger. It's delicious!
 
 ## What is Tasty Hamburger?
 
-Tasty Hamburger is a collection of best hamburgers. You can simply put it in your project or site!
+Tasty Hamburger is a collection of best hamburgers. You can simply put it in your project or site! Without jQuery!
 
 
 ## How it works?
 
-1. First clone or download this repository.
+1. First clone or download this repository - [check newest version](https://github.com/mateuszmikos/tasty-hamburger/releases/).
 2. Add css/tasty-hamburger.min.css to your <head>.
+
 `<link rel="stylesheet" href="css/tasty-hamburger.min.css">`
+
 3. Add js/tasty-hamburger.min.js before </body>
+
 `<script src="js/tasty-hamburger.min.js"></script>`
+
 4. Create div with `.tasty-hamburger-1` or `.tasty-hamburger-2` or `.tasty-hamburger-...` class.
 5. You're ready to go!
 
-You can use data attributes to control your menu when toggling Tasty Hamburger.
-You may add something like `data-toggle-id="menu"` and `data-toggle-add-class="menu-vertical"` to hamburger div. When you click Tasty Hamburger to element #menu will be added class menu-vertical, if you click again - class will be deleted. You can do it in reverse too! Like: `data-reverse-toggle-id="menu"` and `data-reverse-toggle-add-class="menu-vertical"`. You can use *-toggle-* and *-reverse-toggle-* together to create something great!
+
 
 ### Examples
 
-You can find all examples at matt.aimweb.pl/tasty-hamburger or in `example.html` file.
+You can find all examples at [matt.aimweb.pl/tasty-hamburger](matt.aimweb.pl/tasty-hamburger) or in `example.html` file.
 
 ### Available Speeds
 
@@ -72,3 +75,5 @@ You can perform something like reverse toggling. You can remove class on enable,
 `<div class="tasty-hamburger-1 dark-toggler" data-reverse-toggler-id="main-menu" data-reverse-toggler-add-class="hide">`
 
 For first click, Tasty Hamburger will remove class hide from #main-menu element. For next click, Tasty Hamburger will add it again.
+
+You can use *-toggle-* and *-reverse-toggle-* together to create something great!
