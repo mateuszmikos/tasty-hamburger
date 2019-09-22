@@ -8,6 +8,8 @@ Check this big and yummy hamburger from Tasty Hamburger. It's delicious!
 
 Tasty Hamburger is a collection of best hamburgers. You can simply put it in your project or site! Without jQuery!
 
+![](tasty-hamburger-preview.gif)
+
 
 ## How it works?
 
