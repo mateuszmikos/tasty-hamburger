@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tasty-hamburger Data attributes Examples</title>
+    <style>
+        body {
+            color: white;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #322;
+        }
+
+        header {
+            display: grid;
+            grid-template-columns: 1fr 75px;
+            background-color: #100;
+        }
+
+        .title {
+            padding: 1em;
+        }
+
+        #menu {
+            position: fixed;
+            top: 0;
+            left: -1000px;
+            width: 30%;
+            background-color: #552277;
+            height: 100vh;
+            transition: all 1s;
+        }
+
+        .show-menu {
+            left: 0px!important;
+        }
+
+        ul {
+            list-style-type: none;
+            font-size: 1.2em;
+        }
+        li {
+            padding: 1em 0em;
+        }
+
+    </style>
+
+    <link rel="stylesheet" href="css/tasty-hamburger.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="title">
+                <h1>This is example</h1>
+            </div>
+            <div class="tasty-hamburger-2" data-toggle-id="menu" data-toggle-add-class="show-menu"></div>
+        </header>
+        <nav id="menu">
+            <ul>
+                <li>Menu 1</li>
+                <li>Menu 2</li>
+                <li>Menu 3</li>
+            </ul>
+        </nav>
+    </div>
+
+    <script src="js/tasty-hamburger.js"></script>
+</body>
+</html>

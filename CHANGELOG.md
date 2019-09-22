@@ -1,8 +1,11 @@
 # Changelog
 
-## [0.0.2] - 2019.09.21
+## [1.0.0-alpha] - 2019.09.21
 ### Fixed
 - Fast animation fixed
+
+### Changed
+- Version going to 1.*
 
 ## [0.0.1] - 2019.09.21
 ### FIRST RELEASE!

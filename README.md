@@ -66,13 +66,13 @@ When you need dark spans you can add .dark-toggler class:
 
 Tasty hamburger can "control" other elements. You can provide data-* attributes, like:
 
-`<div class="tasty-hamburger-1 dark-toggler" data-toggler-id="main-menu" data-toggler-add-class="show">`
+`<div class="tasty-hamburger-1 dark-toggler" data-toggle-id="main-menu" data-toggle-add-class="show">`
 
 If you click hamburger for first time (enable), when element with id main-menu will get new class - show. If you untoggle hamburger, element class show will be removed from #main-menu element.
 
 You can perform something like reverse toggling. You can remove class on enable, and add on disable with it:
 
-`<div class="tasty-hamburger-1 dark-toggler" data-reverse-toggler-id="main-menu" data-reverse-toggler-add-class="hide">`
+`<div class="tasty-hamburger-1 dark-toggler" data-reverse-toggle-id="main-menu" data-reverse-toggle-add-class="hide">`
 
 For first click, Tasty Hamburger will remove class hide from #main-menu element. For next click, Tasty Hamburger will add it again.
 

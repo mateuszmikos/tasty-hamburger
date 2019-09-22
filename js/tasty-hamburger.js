@@ -1,3 +1,5 @@
+// Tasty-Hamburger v1.0.0-alpha by Mateusz Mikos https://github.com/mateuszmikos/
+
 var number_of_hamburgers = 25;
 
 function prepare_tasty_hamburger()
